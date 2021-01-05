@@ -1,0 +1,23 @@
+{
+  "name": "twitter-bot-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pswk1/twitter-bot-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pswk1/twitter-bot-example/issues"
+  },
+  "homepage": "https://github.com/pswk1/twitter-bot-example#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
